@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/teamzara/static/css/main.7fef597e.css",
+    "main.js": "/teamzara/static/js/main.5be7d346.js",
+    "static/media/services.jpg": "/teamzara/static/media/services.11c6462f88acf0a83243.jpg",
+    "static/media/logo.jpg": "/teamzara/static/media/logo.442b5b58e31a5a6fac38.jpg",
+    "static/media/contact.jpg": "/teamzara/static/media/contact.a5335edd03fd4602d3b9.jpg",
+    "static/media/background.jpg": "/teamzara/static/media/background.e91c6a841097e37311a3.jpg",
+    "static/media/team.jpg": "/teamzara/static/media/team.ef39a87d9055a30be937.jpg",
+    "index.html": "/teamzara/index.html",
+    "main.7fef597e.css.map": "/teamzara/static/css/main.7fef597e.css.map",
+    "main.5be7d346.js.map": "/teamzara/static/js/main.5be7d346.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fef597e.css",
+    "static/js/main.5be7d346.js"
+  ]
+}
